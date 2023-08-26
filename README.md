@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=Java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white"/> 
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-<img src="https://img.shields.io/badge/socketdotio-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/socketdotio-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=node.js&logoColor=white"/>
 
 
 ### DataBase & Tool
