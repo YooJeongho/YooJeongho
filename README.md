@@ -21,13 +21,14 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsososo95&count_bg=%233EC6BD&title_bg=%23C1D773&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# 방문을 환영합니다 <br/> 행복한 하루 되세요
+# 신입 개발자 유정호입니다 <br/> 행복한 하루 되세요
 
 <br/>
 
   
 ### 🛠️ Tool & Skill 🛠️
-
+### Front End
+### Back End
 <img src="https://img.shields.io/badge/intellij-000000?style=flat-square&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/eclipse-4B4B77?style=flat-square&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/> <img src="https://img.shields.io/badge/NaverCloud-03C75A?style=flat-square&logo=naver&logoColor=white"/> 
