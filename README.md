@@ -48,11 +48,15 @@ Here are some ideas to get you started:
 ### DataBase & Tool
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
 <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/intellij-000000?style=flat-square&logo=intellijidea&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/NaverCloud-03C75A?style=flat-square&logo=naver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/> 
 <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/> 
-<img src="https://img.shields.io/badge/NaverCloud-03C75A?style=flat-square&logo=naver&logoColor=white"/> 
+<img src="https://img.shields.io/badge/NaverCloud-03C75A?style=flat-square&logo=naver&logoColor=white"/>
+<img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
 
 
  
