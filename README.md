@@ -42,12 +42,12 @@ Here are some ideas to get you started:
 
 ### 😄 About Me 😄
 
-<a href="[https://www.notion.so/SoJaeYeon-3beb0913f96d4a168c1a12e5e936a38a?pvs=4](https://www.notion.so/2da01ca06ba84e8b81f184b1abdc30f0)">
+<a href="https://www.notion.so/2da01ca06ba84e8b81f184b1abdc30f0">
   <img src="https://img.shields.io/badge/notion(포트폴리오)-9999FF?style=flat-square&logo=notion&logoColor=white" />
 </a>
 <br/>
 
-<a href="[https://ssojae95.tistory.com/](https://4-developer.tistory.com/)">
+<a href="https://4-developer.tistory.com">
   <img src="https://img.shields.io/badge/tistory(블로그)-FA6831?style=flat-square&logo=tistory&logoColor=white" />
 </a>
 <br/>
