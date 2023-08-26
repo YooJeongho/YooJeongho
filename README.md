@@ -73,11 +73,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/tistory(블로그)-FA6831?style=flat-square&logo=tistory&logoColor=white" />
 </a>
 <br/>
-
-<a href="https://www.instagram.com/ssojae95/">
-  <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-</a>
-
 <br/>
 
 ### ▲ Click ▲
