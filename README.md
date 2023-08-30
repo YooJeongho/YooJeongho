@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 ### 😄 About Me 😄
 
-<a href="https://www.notion.so/2da01ca06ba84e8b81f184b1abdc30f0">
+<a href="https://www.notion.so/2da01ca06ba84e8b81f184b1abdc30f0?pvs=4">
   <img src="https://img.shields.io/badge/notion(포트폴리오)-9999FF?style=flat-square&logo=notion&logoColor=white" />
 </a>
 <br/>
